@@ -42,3 +42,4 @@ plt.scatter(centroids[:,0], centroids[:,1], marker='o', s=200, linewidths=3,
 
 plt.title('Centroids and boundaries calculated using KMeans Clustering', fontsize=16)
 plt.show()
+st.pyplot() 
