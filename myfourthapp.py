@@ -1,3 +1,6 @@
+import streamlit as st
+import numpy as np
+
 file = "mall_customer.csv"
 
 import pandas as pd
