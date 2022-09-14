@@ -1,12 +1,3 @@
-import matplotlib.pyplot as plt
-import numpy as np
-import seaborn as sns
-from sklearn.cluster import KMeans
-from sklearn.datasets import load_digits
-from scipy.stats import mode
-from sklearn.metrics import confusion_matrix
-import seaborn as sns; sns.set()  # for plot styling
-
 file = "mall_customer.csv"
 
 import pandas as pd
