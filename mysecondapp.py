@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
-st.header("My first Streamlit App")
+st.header("My second Streamlit App")
 
 option = st.sidebar.selectbox(
     'Select a mini project',
