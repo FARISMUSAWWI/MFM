@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import time
 
-st.header("My first Streamlit App")
+st.header("My third Streamlit App")
 
 option = st.sidebar.selectbox(
     'Select a mini project',
